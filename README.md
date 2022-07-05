@@ -3,8 +3,6 @@
 
 **Abhishikth3330/Abhishikth3330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Machine Learning and Deep Learning.
 - 🌱 I’m currently learning DevOps and Open Source.
 - 👯 I’m looking to collaborate on Open Source Projects.
