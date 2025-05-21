@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abhishikth-thul" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:abhishikth3330@gmail.com">
+  <a href="mailto:abhishikththul9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Abhishikth3330&style=for-the-badge" alt="profile views" />
@@ -69,9 +69,9 @@
 
 ### 📫 How to Reach Me
 
-- ✉️ Email: [abhishikth3330@gmail.com](mailto:abhishikth3330@gmail.com)  
+- ✉️ Email: [abhishikththul9@gmail.com](mailto:abhishikththul9@gmail.com)  
 - 🌐 LinkedIn: [Abhishikth Thul](https://www.linkedin.com/in/abhishikth-thul)  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />  
-- 🧩 LeetCode: [Abhishikth3330](https://leetcode.com/Abhishikth3330)    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+- 🧩 LeetCode: [Abhishikth3330](https://leetcode.com/u/abhishikththul/)    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
 
 
 ---
